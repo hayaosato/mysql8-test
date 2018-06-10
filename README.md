@@ -17,7 +17,7 @@ dockerイメージ
 SQLの直行を用いて10000件のデータをINSERTします。<br>
 できるデータは以下のようになります。
 
-<img width="499" alt="mysql8_show_columns" src="https://user-images.githubusercontent.com/20217092/41202170-314846de-6d00-11e8-97bb-e6e3214fcced.png">
+<img width="521" alt="mysql8_show_columns" src="https://user-images.githubusercontent.com/20217092/41202243-163eacec-6d01-11e8-99a6-0746d4571943.png">
 
 <img width="441" alt="2018-06-10 22 36 16" src="https://user-images.githubusercontent.com/20217092/41202061-bc583182-6cfe-11e8-9617-7332f52e3f81.png">
 
