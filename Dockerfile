@@ -29,7 +29,7 @@ RUN /usr/local/mysql/bin/mysqld \
     --datadir=/usr/local/mysql/data \
     --user=mysql \
     --log-error-verbosity=3 \
-    --initialize-insecure ;\
+    --initialize-insecure
 
 RUN chown -R mysql:mysql /usr/local/mysql ;\
     cp /usr/local/mysql/support-files/mysql.server /etc/init.d/mysqld
