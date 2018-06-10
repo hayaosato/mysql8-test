@@ -3,8 +3,7 @@ FROM ubuntu:16.04
 MAINTAINER Hayao Munesato
 
 RUN apt-get -y update ;\
-    apt-get -y install cmake make git gcc g++ wget libssl-dev libncurses-dev vim zsh tmux
-# RUN apt-get -y install zlib1g-dev
+    apt-get -y install cmake make git gcc g++ wget libssl-dev libncurses-dev
 RUN mkdir -p /root/src
 
 WORKDIR /root/src
