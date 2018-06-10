@@ -14,7 +14,7 @@ dockerイメージ
 `docker pull hayaomunesato/ubuntu_mysql8`
 
 ## SQL
-SQLの直行を用いて10000件のデータをINSERTします。<br>
+SQLの CROSS JOIN を用いて10000件のデータをINSERTします。<br>
 できるデータは以下のようになります。
 
 <img width="521" alt="mysql8_show_columns" src="https://user-images.githubusercontent.com/20217092/41202243-163eacec-6d01-11e8-99a6-0746d4571943.png">
