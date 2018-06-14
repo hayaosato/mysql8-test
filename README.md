@@ -8,7 +8,7 @@ Ubuntu16.04でのmysql8.0.11の検証レポジトリ
 ubuntu16.04のdockerイメージを事前にpullしておいてください<br>
 `docker pull ubuntu:16.04`
 
-## DockerImage
+## Docker
 dockerイメージ
 [hayaomunesato/ubuntu_mysql8](https://hub.docker.com/r/hayaomunesato/ubuntu_mysql8/)<br>
 `docker pull hayaomunesato/ubuntu_mysql8`
@@ -26,3 +26,4 @@ SQLの CROSS JOIN を用いて10000件のデータをINSERTします。<br>
 - [MySQL 8.0](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/)
 - [MySQL8.0.11リリース、今回もまた苦労させられました](https://blog.infobuild.jp/e/?c=201804271620)
 - [SQLで大量のテストデータ作成](https://qiita.com/cobot00/items/8d59e0734314a88d74c7)
+
